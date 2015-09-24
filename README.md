@@ -10,6 +10,7 @@ Run:
 	sudo cargo run en0
 	
 
-#### Dependency
+##### Dependencies
 
-[libpnet](https://github.com/libpnet/libpnet)
+1. [libpnet](https://github.com/libpnet/libpnet)
+2. [Rust nightly-build](https://www.rust-lang.org/install.html)
