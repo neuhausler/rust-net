@@ -1,5 +1,4 @@
 ## rust-net
-Playground: Rust - Networking
 
 Compile:
 
