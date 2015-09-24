@@ -1,0 +1,8 @@
+[package]
+name = "rust-net"
+version = "0.1.0"
+authors = ["Marcel Neuhausler <neuhausler@gmail.com>"]
+
+[dependencies.pnet]
+git = "https://github.com/libpnet/libpnet.git"
+
